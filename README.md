@@ -1,5 +1,6 @@
 # Collision_Detection_System
-Group project for EECS3201 using a DE-10 Lite FPGA, HC-SR04 sensor, and buzzer
+Group project for EECS3201 using a DE-10 Lite FPGA, HC-SR04 sensor, and buzzer.
+This project was programmed using SystemVerilog.
 A collision detection system for automobiles that will assist drivers while parking in urban environments. 
 The system uses an ultrasonic sensor as input and uses 3 HEX displays, LEDs, and a buzzer as outputs to assist the driver. 
 The system will detect the distance between the car and its surroundings. 
